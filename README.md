@@ -1,8 +1,10 @@
 ### Nice to meet you 🍉
 
-- 🏋 I am currently working on red team tooling
-- 🤝 I'm looking to collaborate on AV evasion techniques
-- 💬 Ask me about Mobile Application Security under Android/iOS
+🏋 I am currently working on red team tooling
+
+🤝 I'm looking to collaborate on AV evasion techniques
+
+💬 Ask me about Mobile Application Security under Android/iOS
 
 <!--
 **dr0pd34d/dr0pd34d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
